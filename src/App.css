@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Press Start';
+    src: url('./assets/fonts/PressStart2P-Regular.ttf') format('truetype');
+}
+
+body {
+    background-color: #e60012;
+}
+
+#root {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 6px 2px 11px 7px darkred;
+    margin: 2.5rem;
+    padding: 1rem;
+    text-align: center;
+    color: #000;
+    font-family: 'Press Start', sans-serif;
+}

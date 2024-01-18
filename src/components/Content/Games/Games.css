@@ -1,0 +1,17 @@
+.games {
+    padding: 0 1rem;
+    width: 30vw;
+    overflow: scroll;
+}
+
+.games_list_item {
+    font-size: 1rem;
+    padding: 0.6rem;
+    font-weight: 700;
+    text-align: start;
+    cursor: pointer;
+}
+
+.games_list_item:hover {
+    background-color: aqua;
+}

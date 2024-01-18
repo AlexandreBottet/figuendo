@@ -1,0 +1,22 @@
+.figurines {
+    width: 70vw;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 1rem;
+    justify-content: space-evenly;
+    overflow: scroll;
+}
+
+.figurines_item {
+    padding: 1.5rem;
+    width: 22vw;
+    align-self: center;
+    border: 3px dashed lightgrey;
+    border-radius: 10px;
+}
+
+.figurines_item_name {
+    padding-top: 1rem;
+    font-size: 0.7rem;
+    line-height: 1rem;
+}
